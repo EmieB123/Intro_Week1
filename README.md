@@ -15,6 +15,7 @@
 	- Repositories
 		- Collections of related files (often code)
 		- Formalizing as a repository allows Git to keep track of changes you make in these files through time
+		> Fork repositories to get own copy in your repository  
     - All class notes and assignments
     
 - Markdown and Outlines
@@ -27,15 +28,22 @@
 - Overview of Operating Systems
   - Windows
   - Mac
+  	> Based on unix
   - Linux
+  	> free, open; number of different versions (ex. ubuntu)  
+	> Based on unix, majority of biology software based on unix
 
 - Some fundamentals
   - Memory (RAM)
+  	> what's being actively worked on  
   - File storage (hard drives)
+  	> long term  
   - CPU
+  	> main processor, most computers have multiple  
   - GPU
+  	> graphics processing units; run moniter, process graphics  
+	> increasingly used to run code but not for this class  
 
-- I ADD SOMETHING HERE
 
 - Unix Filesystem
 	- [Filesystem overview](https://github.com/IntroToCompBioLSU-Spr20/Intro_Week1/blob/master/Filesystems.md)
