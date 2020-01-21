@@ -19,12 +19,17 @@ While the addresses for all files and folders can be written with paths that sta
 > directories referenced by the following relative paths.
 >
 > `Desktop`
+> /Users/UserName/Desktop
 >
 > `../Guest/`
+> /Users/Guest
 >
 > `~/Library/`
+> /Library
+> (~ is back to home directory)
 >
 > `../../`
+> /
   
 ## Hidden Files and Folders
 
